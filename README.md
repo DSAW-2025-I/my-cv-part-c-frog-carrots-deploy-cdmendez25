@@ -85,3 +85,9 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+## Carlos Andres Diaz Mendez - Actividades
+### Juego 1: Ranas - Flex
+![Imagen del juego 1](<Images/Juego Ranas.png>)
+### Juego 2: Jardin - Grid
+![Imagen del juego 2](<Images/Juego Jardin.png>)
