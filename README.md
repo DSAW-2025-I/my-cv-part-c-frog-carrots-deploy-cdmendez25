@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Pu-tfUhR)
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -84,3 +85,11 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+## Carlos Andres Diaz Mendez - Actividades
+### Juego 1: Ranas - Flex
+![Imagen del juego 1](<Images/Juego Ranas.png>)
+### Juego 2: Jardin - Grid
+![Imagen del juego 2](<Images/Juego Jardin.png>)
+### URL: GitHub Pages
+https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-cdmendez25/
