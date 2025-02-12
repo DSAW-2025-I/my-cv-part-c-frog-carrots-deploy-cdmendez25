@@ -91,3 +91,5 @@ section {
 ![Imagen del juego 1](<Images/Juego Ranas.png>)
 ### Juego 2: Jardin - Grid
 ![Imagen del juego 2](<Images/Juego Jardin.png>)
+### URL: GitHub Pages
+https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-cdmendez25/
